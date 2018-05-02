@@ -1,7 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import App from './App';
 import TrelleApp from './components/TrelleApp'
 import registerServiceWorker from './registerServiceWorker';
 import {Provider} from 'react-redux';
